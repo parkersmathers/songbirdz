@@ -29,7 +29,7 @@ gem 'omniauth-spotify'
 gem 'react-rails'
 gem 'pry-rails'
 
-gem 'paperclip', '~> 5.0.0'
+gem 'paperclip', '~> 5.2.0'
 gem 'aws-sdk', '~> 2.0.34'
 
 
